@@ -1,2 +1,2 @@
-# Pandas_excercises
-Pandas_excercises
+# Pandas_exercises
+ Pandas_exercises
